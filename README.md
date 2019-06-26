@@ -10,7 +10,7 @@ First of all, clone the submodule and cd to it.
 
 ```bash
 git clone git@github.com:gedzeppelin/custom-tomcat-dockerfile.git
-cd </path/to/submodule>
+cd custom-tomcat-dockerfile
 
 ```
 

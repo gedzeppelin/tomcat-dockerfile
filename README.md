@@ -9,7 +9,7 @@ Tomcat docker custom build for SI-2 final project.
 First of all, clone the submodule and cd to it.
 
 ```bash
-git clone git@github.com:gedzeppelin/SI2.git
+git clone git@github.com:gedzeppelin/custom-tomcat-dockerfile.git
 cd </path/to/submodule>
 
 ```

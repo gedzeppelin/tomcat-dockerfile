@@ -1,4 +1,4 @@
-# TOMCAT Dockerfile
+# Custom TOMCAT Dockerfile
 Tomcat docker custom build for SI-2 final project. 
 
 ## Requirements

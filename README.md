@@ -8,21 +8,20 @@ Tomcat docker custom build for SI-2 final project.
 
 First of all, clone the submodule and cd to it.
 
-```bash
+```
 git clone git@github.com:gedzeppelin/custom-tomcat-dockerfile.git
 cd custom-tomcat-dockerfile
-
 ```
 
 Then build the docker image and name (and optionally tag) it:
 
-```bash
+```
 docker build --rm -t <image_name>[:<tag>] .
 ```
 
 Now you can run the tomcat docker image with your local project files:
 
-```bash
+```
 docker run -d --rm --name <container_name> --link <mysql_container_name>:<mysql_container_tag> -v </path/to/project>/target/<project_name>:/usr/local/tomcat/webapps/<tomcat_path> -p 8080[or your preferred port]:8080 <image_name>[:<image_tag>] 
 ```
 

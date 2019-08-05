@@ -1,5 +1,7 @@
 # Custom TOMCAT Dockerfile
-Tomcat docker custom build for SI-2 final project. 
+[![N|Solid](https://raw.githubusercontent.com/docker-library/docs/8e31eb93a02d504d0cfe1da435aa31b377fc627d/tomcat/logo.png)](https://hub.docker.com/r/gedzeppelin/custom-tomcat)
+
+My custom Tomcat docker build for serving Java servlet applications. 
 
 ## Requirements
 * Obviously, [Docker](https://www.docker.com/), a program that performs operating-system-level virtualization (also known as containerization).

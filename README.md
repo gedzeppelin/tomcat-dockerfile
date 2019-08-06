@@ -1,5 +1,7 @@
 # Custom TOMCAT Dockerfile
-[![N|Solid](https://raw.githubusercontent.com/docker-library/docs/8e31eb93a02d504d0cfe1da435aa31b377fc627d/tomcat/logo.png)](https://hub.docker.com/r/gedzeppelin/custom-tomcat)
+<a href="https://hub.docker.com/r/gedzeppelin/custom-tomcat">
+  <img src="https://raw.githubusercontent.com/docker-library/docs/8e31eb93a02d504d0cfe1da435aa31b377fc627d/tomcat/logo.png"  width="250" display="block">
+</a>
 
 My custom Tomcat docker build for serving Java servlet applications. 
 

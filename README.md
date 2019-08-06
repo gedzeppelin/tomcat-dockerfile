@@ -10,7 +10,7 @@ My custom Tomcat docker build for serving Java servlet applications.
 
 ## Instalation
 
-First of all, clone the submodule and cd to it.
+First of all, clone the submodule and cd to it:
 
 ```
 git clone git@github.com:gedzeppelin/tomcat-dockerfile.git
